@@ -3,6 +3,7 @@
 ## 使用步驟：
 * 第一步：下載github desktop（網址：https://desktop.github.com）
 * 第二步：回到這個頁面（網址：https://github.com/k6784ck/newsweb），並點選頁面右上角的綠色按鈕“Clone or download“，選擇“Open in Desktop”，github desktop會自動複製頁面上所有資料並在本機建立一個資料夾。
+![Alt text](https://i.imgur.com/bbXL3hF.png)
 * 第三步：如圖所示，按下中間“Show in finder”可以看見資料夾中的檔案。
 ![Alt text](https://i.imgur.com/iuhUdAx.png)
 * 第四步：點選檔案中的“index.html”（這個檔案是我們的網站），進行編輯。
