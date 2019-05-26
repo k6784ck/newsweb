@@ -6,7 +6,7 @@
 ![Alt text](https://i.imgur.com/bbXL3hF.png)
 * 第三步：如圖所示，按下中間“Show in finder”可以看見資料夾中的檔案。
 ![Alt text](https://i.imgur.com/iuhUdAx.png)
-* 第四步：點選檔案中的“index.html”（這個檔案是我們的網站），進行編輯。
+* 第四步：用Visual  code開啟檔案中的“index.html”（這個檔案是我們的網站），進行編輯。
 * 第五步：編輯完後儲存，回到github desktop的介面，在左下角的summary先輸入更改的內容（自由打即可），輸入完後按Commit to master，好了之後，點右上角會出現“Push origin”，即可完成上傳（如果上傳出現問題，表示有其他人編輯最新版本上去，但自己的畚箕還沒有最新版本，因此確認後，再看一次右上角的按鈕，會變Pull origin，點下去，完成後，那個按鈕會變回Push origin，再點一次即可完成上傳。
 * 第六步：點選我們網站的網址：https://k6784ck.github.io/newsweb/ ，確認更改是否成功。
 
