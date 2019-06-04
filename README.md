@@ -1,5 +1,16 @@
 # 新聞網站第二組共編平台
 ## 網站網址：https://k6784ck.github.io/newsweb/
+
+## 便民服務（快速連結，06/04新增）
+### figma：
+* https://www.figma.com/file/L0NfyyITazzFKfppiTFkVyqH/期中報告用?node-id=74%3A2
+### 分頁互動腳本設計連結：
+* https://docs.google.com/document/d/11gG3Osx5sVhzbbrkeux3qrgZCLbH7PUXBtquyT9XhdU/edit?fbclid=IwAR03F0K_f-tR8KXe-RmetU91vpBiljudy-WtKU9H_6bA3-w24-UTnAJSkrw
+### 獵豹圖
+* https://drive.google.com/drive/u/0/folders/1SlsBPmSaF8uCpYYWdDN43UWgSc-1YgEl
+### 分頁作品連結
+* https://docs.google.com/spreadsheets/u/1/d/14bVoTUXbdF_8SERsCUcTUDCwCvPoPA6mmfVIWgVBews/edit?usp=sharing&fbclid=IwAR2Qrsg3M5Loj9hYWZ-MH_oWvjE3IJ-c-IyT3x-fIY4P_smGjhDE7jSt0fw
+
 ## 使用步驟：
 * 第一步：下載github desktop（網址：https://desktop.github.com）
 * 第二步：回到這個頁面（網址：https://github.com/k6784ck/newsweb），並點選頁面右上角的綠色按鈕“Clone or download“，選擇“Open in Desktop”，github desktop會自動複製頁面上所有資料並在本機建立一個資料夾。
@@ -15,13 +26,12 @@
 * 影片中有發生第五步我自己的本機沒有更新最新版本的資料夾的情況，可以參考～
 * 整體來說應該是方便上手的ＸＤ
 
-## 工作細節：（06/04新增）
+
 ### Github上傳教學PPT
 * https://drive.google.com/file/d/1n2vaXd0QSm2I6o3dsg8rhlm9sCUnKVd_/view?usp=sharing
 * 這是我參加一個課程的教學，整體流程大致和我上面寫得差不多，可以參考。
 
-## figma：
-* https://www.figma.com/file/L0NfyyITazzFKfppiTFkVyqH/期中報告用?node-id=74%3A2
+## 工作細節：（06/04新增）
 ### 主頁：（需要：建出figma的版型，還有一個css的架構）
 * 第一頁（整體排版請見figma「第一頁」的部分）
     * 技術面：第一頁底下的「按鈕」）按下後跳到地圖
