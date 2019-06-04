@@ -15,7 +15,7 @@
 * 影片中有發生第五步我自己的本機沒有更新最新版本的資料夾的情況，可以參考～
 * 整體來說應該是方便上手的ＸＤ
 
-## 工作細節：
+## 工作細節：（06/04新增）
 ### Github上傳教學PPT
 * https://drive.google.com/file/d/1n2vaXd0QSm2I6o3dsg8rhlm9sCUnKVd_/view?usp=sharing
 * 這是我參加一個課程的教學，整體流程大致和我上面寫得差不多，可以參考。
