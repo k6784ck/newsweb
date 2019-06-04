@@ -50,7 +50,7 @@
     * 需要加的素材：仿聊天機器人的頁面，類似互動小遊戲（如：https://theinitium.com/project/20180604-quiz-64reporter/?fbclid=IwAR1GdubznUyg7laZUBof6UYXAwcl2LlmxlbDZHzRyNKr4ndF_hSlTjz0Tcs）
     
    
-## 工作流程（美編以及程式碼部分同時進行）：
+## 工作流程（06/04新增，美編以及程式碼部分同時進行）：
 * 第一階段（約一星期左右）：（css可以用老師上週給的版本套用、或修改）
     * 完成主頁的版型程式碼、以及css（濬浩、宛賢）
     * 完成新聞分頁的版型程式碼、以及css（凱恩、宜臻）
