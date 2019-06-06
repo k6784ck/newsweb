@@ -1,5 +1,10 @@
 # 新聞網站第二組共編平台
-## 網站網址：https://k6784ck.github.io/newsweb/
+## 主頁網址：https://k6784ck.github.io/newsweb/mainpage/
+## 分頁一網址：https://k6784ck.github.io/newsweb/webpage-1/
+## 分頁二網址：https://k6784ck.github.io/newsweb/webpage-2/
+## 分頁三網址：https://k6784ck.github.io/newsweb/webpage-3/
+## 分頁四網址：https://k6784ck.github.io/newsweb/webpage-4/
+## 分頁五網址：https://k6784ck.github.io/newsweb/webpage-5/
 
 ## 便民服務（快速連結，06/04新增）
 ### figma：
