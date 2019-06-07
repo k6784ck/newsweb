@@ -73,11 +73,13 @@ figure.hero-image {
 .paragraph {
 	color: #494949;
 	line-height: 2;
-	font-size: 18px;
+	font-size: 20px;
 	margin-top: 30px;
-	width: 95%;
+	width: 96%;
 	margin-left: auto;
 	margin-right: auto;
+	text-align: justify;
+    text-justify:inter-ideograph;
 }
 
 figure {
@@ -114,7 +116,7 @@ figcaption {
 
 @media all and (max-width: 768px) {
 	h1.title {
-		font-size: 28px;
+		font-size: 36px;
 		width: 95%;
 	}
 
