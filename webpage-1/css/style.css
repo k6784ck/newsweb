@@ -347,3 +347,13 @@ video:focus {
 .material-icons.md-dark {
 	color: rgb(0, 0, 0);
 }
+.footer{
+	color: #494949;
+	line-height: 1.4;
+	font-size: 20px;
+	margin-top: 40px;
+	
+	margin-left: auto;
+	margin-right: auto;
+	
+}
