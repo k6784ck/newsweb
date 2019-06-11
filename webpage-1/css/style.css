@@ -13,6 +13,12 @@ body {
 	background-color: #f2f2f2;
 }
 
+.nav{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+}
+
 h1.title {
 	display: block;
 	font-size: 34px;
@@ -174,6 +180,12 @@ figcaption {
 	.multimedia-block {
 		width: 100%;
 	}
+
+	.logobox {
+		width: 100%;
+		
+	}
+	
 }
 
 @media all and (min-width: 768px) and (max-width: 1024px) {
@@ -189,6 +201,11 @@ figcaption {
 	figure.half {
 		display: block;
 		width: 100%;
+	}
+
+	.logobox {
+		width: 100%;
+		
 	}
 }
 
