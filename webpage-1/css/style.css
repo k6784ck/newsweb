@@ -102,6 +102,8 @@ figcaption {
 	color: #404040;
 	font-size: 14px;
 	margin-top: 15px;
+	text-align: justify;
+    text-justify:inter-ideograph;
 }
 
 
