@@ -7,10 +7,16 @@
 }
 
 body {
-	padding: 0;
+	padding: 5%;
 	margin: 0;
 	font-family: Microsoft JhengHei, Noto Sans TC, PingFang TC, Apple LiGothic Medium, Roboto, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	background-color: #f2f2f2;
+}
+
+.nav{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
 }
 
 h1.title {
@@ -19,6 +25,11 @@ h1.title {
 	font-weight: bold;
 	line-height: 1.35;
 	color: black;
+	
+	margin-left: auto;
+	margin-right: auto;
+	text-align: justify;
+    text-justify:inter-ideograph;
 }
 
 span {
@@ -73,14 +84,19 @@ figure.hero-image {
 .paragraph {
 	color: #494949;
 	line-height: 2;
-	font-size: 18px;
+	font-size: 20px;
 	margin-top: 30px;
+	
+	margin-left: auto;
+	margin-right: auto;
+	text-align: justify;
+    text-justify:inter-ideograph;
 }
 
 figure {
 	margin: 60px auto !important;
 	width: 100%;
-	max-width: 1080px;
+	max-width: 1440px;
 }
 
 figure.half {
@@ -90,8 +106,10 @@ figure.half {
 
 figcaption {
 	color: #404040;
-	font-size: 16px;
+	font-size: 14px;
 	margin-top: 15px;
+	text-align: justify;
+    text-justify:inter-ideograph;
 }
 
 
@@ -108,10 +126,20 @@ figcaption {
 	margin-top: 40px;
 	margin-left: 40px;
 }
+.footer{
+	color: #494949;
+	line-height: 1.4;
+	font-size: 20px;
+	margin-top: 40px;
+	
+	margin-left: auto;
+	margin-right: auto;
+	
+}
 
 @media all and (max-width: 768px) {
 	h1.title {
-		font-size: 28px;
+		font-size: 36px;
 		width: 95%;
 	}
 
@@ -162,6 +190,12 @@ figcaption {
 	.multimedia-block {
 		width: 100%;
 	}
+
+	.logobox {
+		width: 100%;
+		
+	}
+	
 }
 
 @media all and (min-width: 768px) and (max-width: 1024px) {
@@ -177,6 +211,11 @@ figcaption {
 	figure.half {
 		display: block;
 		width: 100%;
+	}
+
+	.logobox {
+		width: 100%;
+		
 	}
 }
 
@@ -318,3 +357,4 @@ video:focus {
 .material-icons.md-dark {
 	color: rgb(0, 0, 0);
 }
+
