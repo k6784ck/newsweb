@@ -245,7 +245,7 @@ nav {
 	display: flex !important;
 	justify-content: space-around;
 	align-items: center;
-	background-color: #fafafa;
+	
 	min-height: 100px;
 }
 
