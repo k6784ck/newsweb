@@ -13,11 +13,12 @@ body {
 	background-color: #f2f2f2;
 }
 
-.nav{
+/*.nav{
 	display: flex;
 	flex-direction: row;
 	justify-content: flex-start;
-}
+	color: #f2f2f2;
+}*/
 
 h1.title {
 	display: block;
