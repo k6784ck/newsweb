@@ -288,20 +288,6 @@ nav {
 	min-height: 100px;
 }
 
-@keyframes logo-shake {
-	0% {
-		transform: translateY(1px);
-	}
-
-	50% {
-		transform: translateY(0);
-	}
-
-	100% {
-		transform: translateY(-1px);
-	}
-}
-
 img.logo {
 	margin-left: 50px;
 	animation-name: logo-shake;
@@ -321,12 +307,7 @@ nav>ul>li {
 	padding: 15px;
 }
 
-a:hover {
-	color: rgb(208, 5, 26);
-	border-bottom: 1px solid rgb(208, 5, 26);
-	transform: translateX(5px);
-	transition: transform .1s linear;
-}
+
 
 a {
 	text-decoration: none;
