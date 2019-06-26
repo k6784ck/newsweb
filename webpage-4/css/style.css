@@ -129,8 +129,8 @@ figcaption {
 .footer{
 	color: #494949;
 	line-height: 1.4;
-	font-size: 20px;
-	margin-top: 40px;
+	font-size: 16px;
+	margin-top: 30px;
 	
 	margin-left: auto;
 	margin-right: auto;
@@ -284,23 +284,10 @@ nav {
 	display: flex !important;
 	justify-content: space-around;
 	align-items: center;
-	background-color: #fafafa;
+	
 	min-height: 100px;
 }
 
-@keyframes logo-shake {
-	0% {
-		transform: translateY(1px);
-	}
-
-	50% {
-		transform: translateY(0);
-	}
-
-	100% {
-		transform: translateY(-1px);
-	}
-}
 
 img.logo {
 	margin-left: 50px;
@@ -321,12 +308,6 @@ nav>ul>li {
 	padding: 15px;
 }
 
-a:hover {
-	color: rgb(208, 5, 26);
-	border-bottom: 1px solid rgb(208, 5, 26);
-	transform: translateX(5px);
-	transition: transform .1s linear;
-}
 
 a {
 	text-decoration: none;
